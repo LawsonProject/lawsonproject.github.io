@@ -1,5 +1,5 @@
 ---
-title: About
+title: Chapter One
 layout: ChapterOne
 ---
 
