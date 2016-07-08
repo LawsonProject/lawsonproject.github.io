@@ -1,6 +1,6 @@
 ---
 title: About
-date: '2016-07-08 23:47:24'
+date: '2016-07-08 23:47:00'
 layout: default
-draft: true
 ---
+Test
