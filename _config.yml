@@ -6,14 +6,14 @@ markdown:         redcarpet
 permalink:        pretty
 
 # Setup
-title:            EduGuide Insiders
-tagline:          'A Jekyll theme'
+title:            The Lawson Project
+tagline:          A look back at the "Small Wonder" 1980's TV Show
 description:      'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://eginsiders.github.io
+url:              http://lawsonproject.github.io
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Jon Morgan'
+  url:            https://twitter.com/morga2ja
 
 paginate:         5
 
@@ -21,4 +21,4 @@ paginate:         5
 version:          1.0.0
 
 github:
-  repo:           https://github.com/EGInsiders/eginsiders.github.io
+  repo:           https://github.com/LawsonProject
