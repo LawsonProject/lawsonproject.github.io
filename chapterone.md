@@ -1,6 +1,6 @@
 ---
 title: Chapter One
-layout: ChapterOne
+layout: default
 ---
 
 <p class="message">
